@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task Mngr CompletionPage</string>
+    <string name="message">All tasks completed</string>
+    <string name="msg_attribute">Nice work!</string>
 </resources>
